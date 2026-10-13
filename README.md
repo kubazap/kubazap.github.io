@@ -1,8 +1,10 @@
-# Portfolio
+# Portfolio Website
 
 A responsive portfolio website showcasing my skills, projects, and experience as a junior front-end developer based in Kielce, Poland.
 
-**Live site:** [kubazap.github.io](https://kubazap.github.io/)
+![Website Preview](assets/img/website-preview.png)
+
+**Live site:** [View Website](https://kubazap.github.io/)
 
 ## Project Structure
 
